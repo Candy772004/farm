@@ -1,0 +1,6 @@
+{
+  "name": "Farm2Trust - Direct Farmer to Customer Marketplace",
+  "description": "A full-stack transparent agricultural marketplace connecting farmers directly with customers, featuring verification, order processing, and QR-based batch traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
